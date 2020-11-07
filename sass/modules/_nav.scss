@@ -1,0 +1,33 @@
+.fixed_nav{
+    color: whitesmoke;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 100px;
+    padding-top: 100px;
+    margin: 0 auto;
+    position: fixed;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+
+    
+
+    li{
+        display: inline;
+        justify-content: space-around;
+        margin: 0 auto;
+        padding-left: 40px;
+        a{
+            color: black;
+            margin: 0 auto;
+            text-decoration: none;
+            font: helvetica, sans-serif;
+            font-size: 18px;
+            font-weight: 300;
+            transition: all .3s linear;
+        }
+        a:hover{
+            color: grey;
+            font-size: 19px;
+        }
+    }   
+}

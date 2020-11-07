@@ -1,0 +1,58 @@
+body{
+    background-color: pink;
+    overflow: hidden;
+    background-image: url(../images/bgrd.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    height: 100vh;
+
+    
+}
+
+.fixed_bg{
+    
+    width: 100%;
+    
+  img{
+      max-height: 100%;
+      max-width: 100%;
+  }
+  img:hover{
+    transform: scale(1.1);
+    transition: 5s;
+
+  }
+
+}
+.align{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.typewrite{
+     text-decoration: none;
+}
+.typewriter{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    position: fixed;
+    top: 50%;
+    left: 10%;
+    font-size: 100px;
+    word-wrap: wrap;
+}
+
+.fixed_hello{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    position: fixed;
+    top: 35%;
+    left: 10%;
+}
+
+.sep_bar {
+    padding-left: 30px;;
+}
