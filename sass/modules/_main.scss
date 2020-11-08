@@ -1,4 +1,9 @@
 body{
+    border: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fixed_bg{
     background-color: pink;
     overflow: hidden;
     background-image: url(../images/bgrd.jpg);
@@ -6,12 +11,6 @@ body{
     background-repeat: no-repeat;
     background-position: top center;
     height: 100vh;
-
-    
-}
-
-.fixed_bg{
-    
     width: 100%;
     
   img{
@@ -55,4 +54,16 @@ body{
 
 .sep_bar {
     padding-left: 30px;;
+}
+
+
+//contact and about page headings
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    padding-top: 13%;
+    font-size: 30px;
 }

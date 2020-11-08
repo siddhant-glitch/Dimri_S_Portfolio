@@ -1,4 +1,9 @@
 body {
+  border: none;
+  font-family: "Roboto", sans-serif;
+}
+
+.fixed_bg {
   background-color: pink;
   overflow: hidden;
   background-image: url(../images/bgrd.jpg);
@@ -6,9 +11,6 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   height: 100vh;
-}
-
-.fixed_bg {
   width: 100%;
 }
 .fixed_bg img {
@@ -54,8 +56,17 @@ body {
   padding-left: 30px;
 }
 
+.heading {
+  font-family: "Montserrat", sans-serif;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  padding-top: 13%;
+  font-size: 30px;
+}
+
 .fixed_nav {
-  color: whitesmoke;
+  color: grey;
   font-family: "Roboto", sans-serif;
   padding-left: 100px;
   padding-top: 100px;
@@ -83,6 +94,58 @@ body {
 .fixed_nav li a:hover {
   color: grey;
   font-size: 19px;
+}
+
+.bigContactContainer {
+  padding-top: 3%;
+  margin: 0 auto;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contactContainer {
+  border-radius: 5px;
+  background-color: white;
+  padding: 20px;
+}
+
+input[type=text], select, textarea {
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: grey;
+}
+
+.bigAboutContainer {
+  padding-top: 3%;
+  margin: 0 auto;
+  width: 70%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
 @media only screen and (max-width: 1182px) {
