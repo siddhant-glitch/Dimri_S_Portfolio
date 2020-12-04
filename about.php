@@ -29,8 +29,9 @@
         <section class="bigAboutContainer">
 
             <div class="aboutContainer">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum sed arcu non odio euismod lacinia. Vel risus commodo viverra maecenas accumsan. Dui id ornare arcu odio ut sem nulla pharetra diam. Elit duis tristique sollicitudin nibh. Integer malesuada nunc vel risus commodo. Velit euismod in pellentesque massa. Tempor nec feugiat nisl pretium fusce id velit ut tortor. Imperdiet sed euismod nisi porta lorem mollis aliquam ut porttitor. Vitae tortor condimentum lacinia quis vel.
-                Vitae sapien pellentesque habitant morbi tristique senectus. Morbi tristique senectus et netus et malesuada fames ac turpis. Molestie at elementum eu facilisis sed odio morbi. Eu ultrices vitae auctor eu augue ut lectus arcu. Ac tortor vitae purus faucibus. Morbi quis commodo odio aenean sed. Erat nam at lectus urna duis. Sit amet nisl suscipit adipiscing bibendum. Gravida cum sociis natoque penatibus et magnis dis. Tincidunt praesent semper feugiat nibh sed pulvinar. Sed libero enim sed faucibus. Donec et odio pellentesque diam volutpat commodo sed egestas. Tellus in metus vulputate eu scelerisque. Iaculis urna id volutpat lacus laoreet. In cursus turpis massa tincidunt dui ut ornare lectus sit. Commodo elit at imperdiet dui accumsan sit amet nulla. Scelerisque viverra mauris in aliquam sem fringilla. Sed turpis tincidunt id aliquet risus feugiat in ante metus. Sit amet dictum sit amet justo. Fringilla est ullamcorper eget nulla facilisi etiam dignissim.</p>
+                <p>Hi I'm Siddhant, people call me Sid, and as you can see everywhere on this site, i love design!
+                    I would say my expertise lies in following my instinct but i work well with guidelines too. I've been an introvert all my life and a while back i thought of trying to change my outlook. I think i'm more positive, easy to talk to and a nice person overall. So, do use my contact page which really took a lot of time to work just right and send me a msg. Even if you don't wanna hire me or give me work, we can just talk about design itself and I hope I can be use to you.
+                </p>
             </div>
 
             <div class="aboutPhoto">

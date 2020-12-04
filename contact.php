@@ -54,20 +54,20 @@ if(isset($_POST["submit"])){
             <div class="contactContainer">
 			<?php
 			if($isInserted){
-				echo "<center><label style='color:green;'>Data has been saved successfully</label></center>";
+				echo "<center><label style='color:green;'>Data has been saved successfully hehe</label></center>";
 			} elseif($isError){
-				echo "<center><label style='color:red;'>Something went wrong</label></center>";
+				echo "<center><label style='color:red;'>Something went wrong, oop</label></center>";
 			}
 			?>
                 <form method="post">
                 <label for="fname">First Name</label>
-                <input type="text" id="fname" name="firstname" placeholder="Your name..">
+                <input type="text" id="fname" name="firstname" placeholder="Your name please..">
             
                 <label for="lname">Last Name</label>
                 <input type="text" id="lname" name="lastname" placeholder="Your last name..">
             
                 <label for="subject">Subject</label>
-                <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+                <textarea id="subject" name="subject" placeholder="Cmon, write something.." style="height:200px"></textarea>
             
                 <input type="submit" value="Submit" name="submit">
                 </form>
@@ -80,9 +80,9 @@ if(isset($_POST["submit"])){
                 <div class="links">
                     <h2>Links</h2>
                     <div class="linkImages">
-                        <a href="#">eeenshta</a>
-                        <a href="#">behance</a>
-                        <a href="#">github</a>
+                        <a href="https://www.instagram.com/holo.shiz/" target="_blank">FollowmeHere</a>
+                        <a href="https://www.behance.net/siddhantdimri" target="_blank">Behance</a>
+                        <a href="https://github.com/siddhant-glitch" target="_blank">Github</a>
                     </div>
                 </div>
                 

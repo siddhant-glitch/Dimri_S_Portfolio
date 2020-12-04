@@ -44,7 +44,8 @@ $result = $conn->query($sql);
             </ul>
         </nav>      
 	 <section class="align"> 
-    <h1 class="fixed_hello">This is my work page,</h1> 
+	<h1 class="fixed_hello">This is my work page,</h1> 
+	<p class="scrollInstr">Psst, Scroll</p>
 </section>
     </section>
 
